@@ -1,0 +1,17 @@
+{
+	"name": "qunit-test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "qunit"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"jquery": "^3.3.1",
+		"node-qunit-phantomjs": "^2.0.1",
+		"qunit": "^2.8.0",
+		"qunit-cli": "^0.2.0"
+	}
+}
